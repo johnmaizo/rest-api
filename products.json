@@ -1,0 +1,16 @@
+{
+  "dda9ab10-4e69-4eea-8f6b-d2a720fe8e4a": {
+    "id": "dda9ab10-4e69-4eea-8f6b-d2a720fe8e4a",
+    "name": "Coco-crunch",
+    "price": 25,
+    "quantity": 50,
+    "image": "cococrunch.png"
+  },
+  "a033f2bd-233d-4d77-9d49-6ddc81585cb0": {
+    "id": "a033f2bd-233d-4d77-9d49-6ddc81585cb0",
+    "name": "Oishi Version two",
+    "price": 30,
+    "quantity": 500,
+    "image": "oishi.png"
+  }
+}
